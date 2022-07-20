@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamsi-panchada
 - 👀 I’m interested in Back3nd Development and data engineering.
-- 🌱 I’m currently learning B.Tech Information and Communication Technology from SASTRA University
+- 🌱 I’m currently pursuing B.Tech Information and Communication Technology from SASTRA University
 - 📫 Reach me at vamsivs58@gmail.com
 
 <!---
